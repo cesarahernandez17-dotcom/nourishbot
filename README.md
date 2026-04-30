@@ -82,6 +82,16 @@ This project was built with a product mindset:
 * Mobile app version
 * Subscription model
 
+## PM Lens
+
+Target User: Busy health-conscious professionals
+
+Core KPI: Weekly active users
+
+North Star Metric: Meals analyzed per active user
+
+Monetization: Premium meal plans + nutrition coaching
+
 ## Author
 
 César Hernandez
